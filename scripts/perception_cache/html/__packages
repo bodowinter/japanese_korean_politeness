@@ -1,0 +1,15 @@
+base
+Matrix
+lme4
+emmeans
+afex
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+bindrcpp
